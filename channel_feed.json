@@ -1,0 +1,18 @@
+[
+  {
+    "external_id": "CH-1001",
+    "sku": "BRK-PAD-PUL150",
+    "name": "Brake Pad Pulsar 150",
+    "price": 499.00,
+    "stock": 120,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1002",
+    "sku": "CHX-LUB-500ML",
+    "name": "Chain Lubricant Spray 500ml",
+    "price": 250.00,
+    "stock": 45,
+    "category": "Maintenance"
+  }
+]
